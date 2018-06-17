@@ -1,3 +1,8 @@
 node_modules
 release
 internals
+.history
+.DS_Store
+.npmrc
+.vscode
+sandbox
