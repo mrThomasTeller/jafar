@@ -1,0 +1,41 @@
+ First release:
+ - replace in filenames
+ -
+ - replaces preview
+ - group occurrences by file
+ - show occurrences in context
+ - flags as toggleable icons with titles
+ - better layout
+ - move replace button under results
+ - material design
+ -
+ - check all the codemirror types
+ - handle errors
+ - tests
+
+
+ - files masks (with history)
+ - right click menu
+ - from/to history
+ - templates
+ - history (cancel previous replaces)
+ - show files in finder
+ - hotkeys
+ - uncheck found results
+ - show progressbar only if action takes more than 1s
+ - get rid of content flashing
+ - smooth fancy animations
+ - canceled popup (or smth like this)
+ - fix all the languages
+ - highlight regex errors
+ - localization
+ - add tslint
+ - where validation
+ - speed up search
+ - __actionFn etc should go to actions
+ - swap from and to
+ - try redux saga or observables
+
+ -------
+
+ - different file systems (dropbox, gdrive etc)
